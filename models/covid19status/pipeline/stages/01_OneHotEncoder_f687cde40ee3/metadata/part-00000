@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoder","timestamp":1593121315927,"sparkVersion":"2.4.5","uid":"OneHotEncoder_f687cde40ee3","paramMap":{"inputCol":"CityIndex","outputCol":"CityclassVec"},"defaultParamMap":{"dropLast":true,"outputCol":"OneHotEncoder_f687cde40ee3__output"}}

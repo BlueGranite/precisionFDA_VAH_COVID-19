@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoder","timestamp":1593121322860,"sparkVersion":"2.4.5","uid":"OneHotEncoder_f35e1b0daf45","paramMap":{"outputCol":"SuffixclassVec","inputCol":"SuffixIndex"},"defaultParamMap":{"dropLast":true,"outputCol":"OneHotEncoder_f35e1b0daf45__output"}}

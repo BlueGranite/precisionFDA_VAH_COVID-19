@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoder","timestamp":1593124077656,"sparkVersion":"2.4.5","uid":"OneHotEncoder_2666329a3901","paramMap":{"inputCol":"smoker_statusIndex","outputCol":"smoker_statusclassVec"},"defaultParamMap":{"dropLast":true,"outputCol":"OneHotEncoder_2666329a3901__output"}}

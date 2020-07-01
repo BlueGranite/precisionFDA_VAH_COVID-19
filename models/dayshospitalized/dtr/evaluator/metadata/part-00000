@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.evaluation.RegressionEvaluator","timestamp":1593134520099,"sparkVersion":"2.4.5","uid":"RegressionEvaluator_491394e31dd1","paramMap":{"labelCol":"days_hospitalized","predictionCol":"prediction","metricName":"rmse"},"defaultParamMap":{"labelCol":"label","predictionCol":"prediction","metricName":"rmse"}}

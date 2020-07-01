@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1593124074467,"sparkVersion":"2.4.5","uid":"StringIndexer_d2120199f8a6","paramMap":{"inputCol":"Suffix","handleInvalid":"skip","outputCol":"SuffixIndex"},"defaultParamMap":{"stringOrderType":"frequencyDesc","handleInvalid":"error","outputCol":"StringIndexer_d2120199f8a6__output"}}

@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoder","timestamp":1593124072165,"sparkVersion":"2.4.5","uid":"OneHotEncoder_7b8575d195ac","paramMap":{"outputCol":"EthnicityclassVec","inputCol":"EthnicityIndex"},"defaultParamMap":{"outputCol":"OneHotEncoder_7b8575d195ac__output","dropLast":true}}

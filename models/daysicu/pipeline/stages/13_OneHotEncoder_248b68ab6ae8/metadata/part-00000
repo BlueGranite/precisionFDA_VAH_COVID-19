@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoder","timestamp":1593179140722,"sparkVersion":"2.4.5","uid":"OneHotEncoder_248b68ab6ae8","paramMap":{"outputCol":"CountyclassVec","inputCol":"CountyIndex"},"defaultParamMap":{"dropLast":true,"outputCol":"OneHotEncoder_248b68ab6ae8__output"}}
