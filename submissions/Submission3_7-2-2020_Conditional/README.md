@@ -18,6 +18,6 @@ All models below were 5-fold cross-validated and a hyperparameter sweep was perf
 
 ## Conditional Adjustments to Predictions
 
-Given that predictions around the days in hospital, days in ICU, and ventilation status are heavily dependent on COVID-19 risk levels, we have adjusted these predictions take into account the probability of the COVID-19 Status prediction. Specifically, the Days Hosptialized, DAys in ICU, and Ventilation Status predictions are multiple by the probablilty prediction from the COVID-19 Status model.
+Given that predictions around the days in hospital, days in ICU, and ventilation status are heavily dependent on COVID-19 risk levels, we have adjusted these predictions consider the probability of the COVID-19 Status prediction. Specifically, the Days Hospitalized, Days in ICU, and Ventilation Status predictions are multiple by the probability prediction from the COVID-19 Status model.
 
 <p align="center"><img src="https://raw.githubusercontent.com/BlueGranite/precisionFDA_VAH_COVID-19/master/submissions/Submission3_7-2-2020_Conditional/ModelComparison.png" width="500px"></p>
