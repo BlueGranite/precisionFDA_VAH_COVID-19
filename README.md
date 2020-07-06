@@ -48,7 +48,7 @@ All of these pivoted datasets were joined to the patient data to generate a summ
 |     Procedures                                  |     Pivoted, Count by Procedure                                                |     Patient ID, Dataset     164 Procedure Columns                                  |
 |     Providers                                   |     -Not Used-                                                                 |     N/A                                                                            |
 |     Supplies                                    |     -Not Used-                                                                 |     N/A                                                                            |
-|     External: City Demographics     [Source]    |     Aggregated to City Level                                                   |     42 City-Level Columns                                                          |
+|     External: City Demographics     [Source](https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi)    |     Aggregated to City Level                                                   |     42 City-Level Columns                                                          |
 |                                                 |                                                                          Total |     828 Columns                                                                    |
 
 ## Modeling Submissions
