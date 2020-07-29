@@ -56,3 +56,6 @@ All of these pivoted datasets were joined to the patient data to generate a summ
 - __Submission 1:__ General Spark MLlib Modeling - [README](/submissions/Submission1_6-26-2020_General)
 - __Submission 2:__ XGBoost Modeling of Worst Performing Models from Submission 1 - [README](/submissions/Submission2_7-1-2020_XGBoost)
 - __Submission 3:__ Conditional Scaling of Submission 1 Results - [README](/submissions/Submission3_7-2-2020_Conditional)
+
+## Data
+All data used in this challenge was synthetically derived using [Synthea™](https://synthetichealth.github.io/synthea/), a patient population simulator from The MITRE Corporation.
